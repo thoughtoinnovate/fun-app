@@ -1,0 +1,8 @@
+site_name: "fun-app"
+site_description: "fun with back stage"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
